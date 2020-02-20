@@ -4123,8 +4123,8 @@ li.feature-2 {
     margin-right:10px
 }
 .top-social_v2 {
-    height:32px;
-    margin-bottom:-15px;
+    /*height:32px;*/
+    margin-bottom:-27px;
     margin-left:10px;
     list-style:none;
     display:inline-block
